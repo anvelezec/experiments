@@ -5,4 +5,4 @@
    
 * AMPs data pipeline.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZYlnVmaA9Gs1DbSeO_r9-pKJE3Pf3_xS#scrollTo=BP4gHy15foOy)
    
-   This notebooks has the goal to create an AMPs dataset pipeline using tf.data.TextLineDataset, it allows to feed NN models preserving randomization and integrating AMPs transformations to it. 
+   This notebooks has the goal to create an AMPs dataset pipeline using tf.data.TextLineDataset, by using this aproximation (end-to-end pipeline) we preserve randomization and facilitate AMPs transformations integrations when feeding our NN model at trainig and production time.
