@@ -9,4 +9,4 @@
    
 * Word2vec with Jorge Luis Borges books.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bQBaUdT_NQCzNMMmJ3OMjSvaAj4X9eDs?authuser=1#scrollTo=1mw1EsdKzRQZ)
    
-   This notebooks applied the fundamentals of word2vec using skipgram and negative sampling using text from Jorge Luis Borges books.
+   This notebooks takes text from Jorge Luis Borges books and applies the fundamentals of word2vec using skipgram and negative sampling for learning representations of words.
