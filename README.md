@@ -7,6 +7,6 @@
    
    This notebooks has the goal to create an AMPs dataset pipeline using tf.data.TextLineDataset, by using this aproximation (end-to-end pipeline) we preserve randomization and facilitate AMPs transformations integrations when feeding our NN model at trainig and production time.
    
-* Word2vec with Jorge Luis Borges books [![Open In Colab](https://colab.research.google.com/drive/1bQBaUdT_NQCzNMMmJ3OMjSvaAj4X9eDs?authuser=1#scrollTo=1mw1EsdKzRQZ)
+* Word2vec with Jorge Luis Borges books.ipynb [![Open In Colab](https://colab.research.google.com/drive/1bQBaUdT_NQCzNMMmJ3OMjSvaAj4X9eDs?authuser=1#scrollTo=1mw1EsdKzRQZ)
    
    This notebooks applied the fundamentals of word2vec using skipgram and negative sampling using text from Jorge Luis Borges books.
